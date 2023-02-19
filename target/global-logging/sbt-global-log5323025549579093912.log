@@ -1,0 +1,11 @@
+[debug] > Exec(assembly, None, None)
+[debug] Evaluating tasks: assembly
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Canceling execution...
+[info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
+[info] Strategy 'rename' was applied to 2 files (Run the task at debug level to see details)
+[warn] Ignored unknown package option FixedTimestamp(Some(1262304000000))
+[error] Cancelled: assembly
+[error] Cancelled: assembly
+[error] Use 'last' for the full log.
+[debug] > Exec(idea-shell, None, None)
